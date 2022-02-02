@@ -1,5 +1,5 @@
 ## Hello friend 👋 It's [migue!](https://www.linkedin.com/in/miguelmchavez/)
-I'm a Fullstack developer in ♥ with in [Laravel](https://laravel.com/) & [React](https://reactjs.org).
+I'm a Fullstack developer in ♥ with [Laravel](https://laravel.com/) & [React](https://reactjs.org).
 
 <br />
 
