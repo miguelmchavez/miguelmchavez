@@ -25,4 +25,4 @@ I'm a Fullstack developer in ♥ with [Laravel](https://laravel.com/) & [React](
 <!-- This content will not appear in the rendered Markdown -->
 <!-- ![migue's github stats](https://github-readme-stats.vercel.app/api?username=miguelmchavez&show_icons=true&hide_border=true) -->
 <!-- <br /> -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelmchavez" />
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelmchavez" /> -->
