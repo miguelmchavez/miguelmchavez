@@ -1,7 +1,7 @@
 ## Hello friend 👋 It's [migue!](https://www.linkedin.com/in/miguelmchavez/)
 I'm a Fullstack developer in ♥ with [Laravel](https://laravel.com/) & [React](https://reactjs.org).
 
-<br />
+<!-- <br /> -->
 
 ## What i'm up to
 
@@ -9,7 +9,7 @@ I'm a Fullstack developer in ♥ with [Laravel](https://laravel.com/) & [React](
 - 🌱 I’m currently working with [Laravel](https://laravel.com/) & [React](https://reactjs.org).
 - 🧠 Learning with [Platzi](https://platzi.com/p/miguelmchavez/) one day at a time.
 
-<br />
+<!-- <br /> -->
 
 ## Languages and Tools
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
