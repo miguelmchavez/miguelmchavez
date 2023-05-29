@@ -5,7 +5,7 @@ I'm a Fullstack developer in ♥ with [Laravel](https://laravel.com/) & [React](
 
 ## What i'm up to
 
-- 🔭 I’m currently working @ [Teixido](https://teixido.co/).
+- 🔭 I’m currently working @ [Nucleus](https://campaignnucleus.com/).
 - 🌱 I’m currently working with [Laravel](https://laravel.com/) & [React](https://reactjs.org).
 - 🧠 Learning with [Platzi](https://platzi.com/p/miguelmchavez/) one day at a time.
 
